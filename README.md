@@ -36,7 +36,8 @@ cd PNETLABv6
 ls -la
 
 ```
-#### Descargar estas dependencias una vez clonado el repositorio y copia todo en la carpeta del proyecto PNETLABv6:
+#### Descargar estas dependencias:
+una vez clonado el repositorio, favor descargar este archivo, descomprimir y copia todo en la carpeta del proyecto PNETLABv6:
 <img width="882" height="364" alt="image" src="https://github.com/user-attachments/assets/8eafdcc4-5c75-46db-b647-9d7b0f6d9238" />
 https://bit.ly/pnetlab-ajustado
 
