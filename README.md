@@ -2,11 +2,9 @@
 
 Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 CLI, optimizado para laboratorios técnicos.
 
-## 📦 Características
-
-- Actualización del sistema
-- Instalación de PNETLab v6
-- Instalación de iShare2
+## 📦 Características:
+- Instalacion de Ubuntu 20.04.6 LTS (Focal Fossa)
+- Instalación de PNETLab v6.0.0-103
 
 ## 🧰 Requisitos
 
@@ -21,7 +19,7 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 
 ## ⚙️ Configuracion de VM y OS
 
-- Instalacion de Ubuntu 20.04.6:
+- Instalacion de Ubuntu 20.04.6 LTS (Focal Fossa):
   * Instalar OS y no Actualizar.
   * Configurarion de Segmento de Red
     - DHCP o Estatico
