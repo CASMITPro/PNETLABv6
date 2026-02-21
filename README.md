@@ -39,7 +39,7 @@ sudo chmod +x install_pnetlab_v6.sh
 ```
 #### Descargar estas dependencias una vez clonado el repositorio:
 <img width="882" height="364" alt="image" src="https://github.com/user-attachments/assets/8eafdcc4-5c75-46db-b647-9d7b0f6d9238" />
-https://canalsecinfra.sharepoint.com/sites/Arquivos/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FArquivos%2FShared%20Documents%2Foffline%2Dpnetlab%2Dv6%2Dajustado%5Fphp74%2Ezip&parent=%2Fsites%2FArquivos%2FShared%20Documents&p=true&ga=1
+https://bit.ly/pnetlab-ajustado
 
 ```shell
 sudo ./install_pnetlab_v6.sh
