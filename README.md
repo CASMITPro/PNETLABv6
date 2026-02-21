@@ -35,9 +35,12 @@ git clone https://github.com/CASMITPro/PNETLABv6.git
 cd PNETLABv6
 ls -la
 sudo chmod +x install_pnetlab_v6.sh
-sudo ./install_pnetlab_v6.sh
-sudo reboot
 ```
+```shell
+sudo ./install_pnetlab_v6.sh
+```
+#Luego de esto realizar un reinicio de la VM.
+
 <img width="1176" height="743" alt="image" src="https://github.com/user-attachments/assets/ce44c920-b78c-4336-ab5f-f0ebd5f08b35" />
 
 ## Descargas de Imagenes para Router, Switch, Servidores, etc:
