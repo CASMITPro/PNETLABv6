@@ -28,6 +28,14 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
     - Password: pnet
     - Hostname: pnetlab 
 
+# 🚀 Instalacion de PNETLABv6
+
+```shell
+git clone https://github.com/TecnologyCASM/DockMon-Stack.git
+cd DockMon-Stack
+ls -la
+```
+
 ## Descargas de Imagenes para Router, Switch, Servidores, etc:
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/5d95cd70-778b-4e79-aa3b-e1261b7b1340" />
 
