@@ -38,7 +38,7 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 https://cios.dhitechnical.com/
 
 ```
-Usuario: cios
-Contraseña: SuperSecretPassword
+- Usuario: cios
+- Contraseña: SuperSecretPassword
 
 # 🚀 A Disfrutar PNETLab version 6.0.0-103!!!!!
