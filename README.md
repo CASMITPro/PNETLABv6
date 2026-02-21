@@ -39,13 +39,7 @@ sudo apt install unzip && \
 sudo unzip offline-pnetlab-v6-ajustado_php74.zip && \
 cd offline-pnetlab-v6-ajustado_php74/ && \
 sudo chmod +x install_pnetlab_v6.sh && \
-sudo ./install_pnetlab_v6.sh
-sudo reboot
-
-```
-
-### Luego de esto realizar un reinicio de la VM.
-```shell
+sudo ./install_pnetlab_v6.sh && \
 sudo reboot
 
 ```
