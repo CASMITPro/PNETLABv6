@@ -38,6 +38,7 @@ sudo chmod +x install_pnetlab_v6.sh
 sudo ./install_pnetlab_v6.sh
 sudo reboot
 ```
+<img width="1176" height="743" alt="image" src="https://github.com/user-attachments/assets/ce44c920-b78c-4336-ab5f-f0ebd5f08b35" />
 
 ## Descargas de Imagenes para Router, Switch, Servidores, etc:
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/5d95cd70-778b-4e79-aa3b-e1261b7b1340" />
