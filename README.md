@@ -40,7 +40,8 @@ ls -la
 una vez clonado el repositorio, favor descargar este archivo, descomprimir y copia todo en la carpeta del proyecto PNETLABv6, esto trae dependencias de binarios offline, lo cual agiliza el proceso de instalacion:
 <img width="762" height="439" alt="image" src="https://github.com/user-attachments/assets/374d9491-7b2a-40bd-b409-6f29a826ee22" />
 <img width="787" height="830" alt="image" src="https://github.com/user-attachments/assets/819f265c-164a-404d-b087-1743ae53d8b5" />
-https://bit.ly/pnetlab-ajustado
+
+- https://bit.ly/pnetlab-ajustado
 
 ## Una vez copiada la informacion, proceder con brindar los permisos de ejecucion al scritp y ejecutar el mismo:
 ```shell
