@@ -33,7 +33,7 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 Esta es una version de PNETLABv6 que contiene todas dependencias necesarias para poder trabajar. mas abajo la URL de donde puedes descargarlo:
 - https://bit.ly/pnetlab-ajustado
 
-### Una vez descargado, favor utilizar cualquier gestor de SFTP para conectarte a la VM y copiar el archivo descargado, el mismo lo puede colocar en el ehome del usuario pnet:
+### Una vez descargado y copiado con cualquier gestor de SFTP para conectarte a la VM, procede a ejecutar los comandos descritos mas abajo:
 ```shell
 sudo apt install unzip
 
