@@ -30,9 +30,7 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 
 # 🚀 Instalacion de PNETLABv6
 #### Descargar Offline-PNETLABv6 Ajustado:
-una vez clonado el repositorio, favor descargar este archivo, descomprimir y copia todo en la carpeta del proyecto PNETLABv6, esto trae dependencias de binarios offline, lo cual agiliza el proceso de instalacion:
-<img width="762" height="439" alt="image" src="https://github.com/user-attachments/assets/374d9491-7b2a-40bd-b409-6f29a826ee22" />
-
+Esta es una version de PNETLABv6 que contiene todas dependencias necesarias para poder trabajar. mas abajo la URL de donde puedes descargarlo:
 - https://bit.ly/pnetlab-ajustado
 
 ## Una vez copiada la informacion, proceder con brindar los permisos de ejecucion al scritp y ejecutar el mismo:
