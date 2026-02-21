@@ -10,7 +10,7 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 
 ## 🧰 Requisitos
 
-- Ubuntu Server 20.04 [Link](https://releases.ubuntu.com/focal/)
+- Ubuntu Server Ubuntu 20.04.6 LTS (Focal Fossa) [Link](https://releases.ubuntu.com/focal/)
 - Creacion de VM en VMware Workstation Pro:
   * Espacion Disco Duro 100GB o Superior
   * Configuracion de Tarjeta de red modo NAT.
@@ -30,17 +30,16 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
     - Password: pnet
     - Hostname: pnetlab 
 
-## ⚙️ Instalación
+## Descargas de Imagenes para Router, Switch, Servidores, etc:
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/5d95cd70-778b-4e79-aa3b-e1261b7b1340" />
+
+https://cios.dhitechnical.com/
 
 ```bash
-git clone https://github.com/CASMITPro/PNETLab-IShare2.git
-cd PNETLab-IShare2
-chmod +x install_pnetlab.sh
-sudo ./install_pnetlab.sh
-
+user : cios 
+```
+```bash
+password: SuperSecretPassword 
 ```
 
-## ⚙️ Instalación Interactiva de iShare2
-<img width="972" height="1541" alt="image" src="https://github.com/user-attachments/assets/71564ec0-8ed2-43ba-902c-9e7b61e27e31" />
-
-# 🚀 A Disfrutar PNETLab e iShare2!!!!!
+# 🚀 A Disfrutar PNETLab version 6.0.0-103!!!!!
