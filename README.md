@@ -31,9 +31,12 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 # 🚀 Instalacion de PNETLABv6
 
 ```shell
-git clone https://github.com/TecnologyCASM/DockMon-Stack.git
-cd DockMon-Stack
+git clone https://github.com/CASMITPro/PNETLABv6.git
+cd PNETLABv6
 ls -la
+sudo chmod +x install_pnetlab_v6.sh
+sudo ./install_pnetlab_v6.sh
+sudo reboot
 ```
 
 ## Descargas de Imagenes para Router, Switch, Servidores, etc:
