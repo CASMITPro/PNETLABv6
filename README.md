@@ -32,16 +32,10 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 
 ## Descargas de Imagenes para Router, Switch, Servidores, etc:
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/5d95cd70-778b-4e79-aa3b-e1261b7b1340" />
-
+```bash
 https://cios.dhitechnical.com/
-
-https://cios.dhitechnical.com/VM/VMware%20vSphere%208.0/ user : cios password: SuperSecretPassword
-```bash
-cios 
 ```
-Contraseña: 
-```bash
-SuperSecretPassword 
-```
+Usuario: cios
+Contraseña: SuperSecretPassword
 
 # 🚀 A Disfrutar PNETLab version 6.0.0-103!!!!!
