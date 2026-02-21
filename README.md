@@ -37,7 +37,7 @@ ls -la
 sudo chmod +x install_pnetlab_v6.sh
 
 ```
-#### Descargar estas dependencias una vez clonado el repositorio:
+#### Descargar estas dependencias una vez clonado el repositorio y copia todo en la carpeta del proyecto PNETLABv6:
 <img width="882" height="364" alt="image" src="https://github.com/user-attachments/assets/8eafdcc4-5c75-46db-b647-9d7b0f6d9238" />
 https://bit.ly/pnetlab-ajustado
 
