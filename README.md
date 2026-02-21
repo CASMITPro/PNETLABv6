@@ -45,8 +45,11 @@ una vez clonado el repositorio, favor descargar este archivo, descomprimir y cop
 
 ## Una vez copiada la informacion, proceder con brindar los permisos de ejecucion al scritp y ejecutar el mismo:
 ```shell
-sudo chmod +x install_pnetlab_v6.sh
-sudo ./install_pnetlab_v6.sh
+sudo chmod +x /home/pnet/PNETLABv6/install_pnetlab_v6.sh
+
+```
+```shell
+sudo /home/pnet/PNETLABv6/./install_pnetlab_v6.sh
 
 ```
 ### Luego de esto realizar un reinicio de la VM.
