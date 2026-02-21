@@ -34,7 +34,6 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 git clone https://github.com/CASMITPro/PNETLABv6.git
 cd PNETLABv6
 ls -la
-sudo chmod +x install_pnetlab_v6.sh
 
 ```
 #### Descargar estas dependencias una vez clonado el repositorio y copia todo en la carpeta del proyecto PNETLABv6:
@@ -42,6 +41,7 @@ sudo chmod +x install_pnetlab_v6.sh
 https://bit.ly/pnetlab-ajustado
 
 ```shell
+sudo chmod +x install_pnetlab_v6.sh
 sudo ./install_pnetlab_v6.sh
 
 ```
