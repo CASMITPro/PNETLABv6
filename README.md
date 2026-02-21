@@ -1,4 +1,4 @@
-# 🚀 PNETLab+IShare2 Installer
+# 🚀 Instalacion de PNETLABv6
 
 Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 CLI, optimizado para laboratorios técnicos.
 
