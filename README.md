@@ -34,8 +34,7 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/5d95cd70-778b-4e79-aa3b-e1261b7b1340" />
 
 ```bash
-
-[https://cios.dhitechnical.com/](https://cios.dhitechnical.com/EVE-NG_IMAGE_PACK/)
+https://cios.dhitechnical.com/EVE-NG_IMAGE_PACK/
 
 ```
 - Usuario: cios
