@@ -29,13 +29,6 @@ Instalador automatizado para configurar Ubuntu Server con PNETLab v6 e iShare2 C
     - Hostname: pnetlab 
 
 # 🚀 Instalacion de PNETLABv6
-
-```shell
-git clone https://github.com/CASMITPro/PNETLABv6.git
-cd PNETLABv6
-ls -la
-
-```
 #### Descargar estas dependencias:
 una vez clonado el repositorio, favor descargar este archivo, descomprimir y copia todo en la carpeta del proyecto PNETLABv6, esto trae dependencias de binarios offline, lo cual agiliza el proceso de instalacion:
 <img width="762" height="439" alt="image" src="https://github.com/user-attachments/assets/374d9491-7b2a-40bd-b409-6f29a826ee22" />
@@ -45,11 +38,23 @@ una vez clonado el repositorio, favor descargar este archivo, descomprimir y cop
 
 ## Una vez copiada la informacion, proceder con brindar los permisos de ejecucion al scritp y ejecutar el mismo:
 ```shell
-sudo chmod +x /home/pnet/PNETLABv6/install_pnetlab_v6.sh
+sudo apt install unzip
 
 ```
 ```shell
-sudo /home/pnet/PNETLABv6/./install_pnetlab_v6.sh
+sudo unzip offline-pnetlab-v6-ajustado_php74.zip
+
+```
+```shell
+cd offline-pnetlab-v6-ajustado_php74/
+
+```
+```shell
+sudo chmod +x install_pnetlab_v6.sh
+
+```
+```shell
+sudo ./install_pnetlab_v6.sh
 
 ```
 ### Luego de esto realizar un reinicio de la VM.
